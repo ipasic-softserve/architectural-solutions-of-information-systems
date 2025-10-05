@@ -1,0 +1,1 @@
+# architectural-solutions-of-information-systems
